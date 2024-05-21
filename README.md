@@ -1,25 +1,30 @@
-# Welcome to My GitHub Profile! 👋
+<h1 align="center">Hi 👋, I'm Hani SIOUDA</h1>
+<h3 align="center"># Welcome to My GitHub Profile! 👋</h3>
+- 🔭 I’m currently working on [SignLanguage](https://github.com/LeSioud/Sign_Language)
+- 👯 I’m collaborate on [Jardin D'Anir](https://github.com/LeSioud/Jardin_d_anir)
+- 🌱 I’m currently learning **html,CSS,Javascript**
 
-## About Me
+- 📫 How to reach me **sioudahani@gmail.com**
 
-👨‍💻 I'm a passionate developer specializing in virtual reality (VR) applications.
+<div> <a href="https://www.linkedin.com/in/hani-siouda" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/LeSioud" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:sioudahani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hani-siouda" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="hani-siouda" height="30" width="40" /></a></p>
 
-🎓 Currently a master's student in computer science, with a focus on immersive technologies and creating engaging VR experiences.
-    I have a keen interest in immersive technologies and creating engaging VR experiences.
-
-💡 I'm always exploring the latest advancements in VR technology and experimenting with innovative ways to interact with virtual environments.
-
-## My Skills
-
-🚀 Programming Languages: C#, UnityScript
-
-🔨 Development Tools: Unity3D, Blender
-
-## My Projects
-
-
-## Contact Me
-
-📧 Feel free to email me at [sioudahani@gmail.com](mailto:sioudahani@gmail.com) to discuss any VR project or collaboration opportunities.
-
-📫 You can also connect with me on [LinkedIn](https://www.linkedin.com/in/hani-siouda/) to stay in touch.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/swift-original.svg" alt="Swift" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/rust-plain.svg" alt="Rust" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Engines/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
