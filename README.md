@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hani SIOUDA</h1>
 <h3 align="center"># Welcome to My GitHub Profile! 👋</h3>
 - 🔭 I’m currently working on [SignLanguage](https://github.com/LeSioud/Sign_Language)
+
 - 👯 I’m collaborate on [Jardin D'Anir](https://github.com/LeSioud/Jardin_d_anir)
-- 🌱 I’m currently learning **html,CSS,Javascript**
+- 
+- 🌱 I’m currently learning **HTML,CSS,JavaScript**
 
 - 📫 How to reach me **sioudahani@gmail.com**
 
