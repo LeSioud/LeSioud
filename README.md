@@ -5,7 +5,7 @@
 
 - 👯 I’m collaborate on [Jardin D'Anir](https://github.com/LeSioud/Jardin_d_anir)
   
-- 🌱 I’m currently learning **HTML,CSS,JavaScript**
+- 🌱 I’m currently learning **HTML,CSS,JavaScript,Rust**
 
 - 📫 How to reach me **sioudahani@gmail.com**
 
